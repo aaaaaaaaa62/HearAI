@@ -60,7 +60,7 @@ export default function AboutPage() {
                 Aaliya Ismail
               </h2>
               <p className="text-xl text-slate-700 leading-relaxed mb-8">
-                An innovative audiologist and technologist dedicated to democratizing access to hearing healthcare. Aaliya combines rigorous academic training in audiology with a deep passion for leveraging artificial intelligence to address healthcare disparities in underserved communities.
+                An innovative student audiologist and technologist dedicated to democratizing access to hearing healthcare. Aaliya combines rigorous academic training in audiology with a deep passion for leveraging artificial intelligence to address healthcare disparities in underserved communities.
               </p>
               <p className="text-lg text-slate-600 leading-relaxed mb-8">
                 Through HearAI, Aaliya is working to ensure that geographic location is never a barrier to accessing quality healthcare. Her work represents a commitment to using technology as a force for social good and health equity.
