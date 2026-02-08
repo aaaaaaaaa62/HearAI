@@ -5,7 +5,7 @@ export default function ContactPage() {
     {
       icon: Mail,
       title: 'Email',
-      value: 'aaliya.ismail@example.edu.au',
+      value: 'ismailaaliya62@gmail.com',
       gradient: 'from-cyan-400 to-blue-400',
     },
     {
